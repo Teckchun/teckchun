@@ -1,5 +1,8 @@
 ### Hi there 👋
+ 🔭 I’m currently working on fullstack development
+ 👯 I’m looking to collaborate on freelance projects
  📫 How to reach me: teckchunaing@gmail.com
+ 
 <!--
 **Teckchun/teckchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
